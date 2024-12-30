@@ -28,3 +28,4 @@ Set .env variables, and then run npm i
 ### Real-Time Communication
 •	Socket.io -  A library for managing real-time communication between the client and the server.
 
+*Hoshen Perez*
