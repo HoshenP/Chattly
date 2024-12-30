@@ -8,15 +8,22 @@ Set .env variables, and then run npm i
 ## Services
 ### Client-Side
 •	React
+
 •	Tailwind CSS - CSS framework for building modern and responsive designs.
+
 •	Shadcn/UI - A library with prebuilt UI components.
+
 •	React Icons - A library for using icons in React components.
 
 ### Server-Side
 •	Node.js - A JavaScript runtime environment for server-side code execution.
+
 •	Express.js - A framework for building web applications and APIs on the server-side.
+
 •	JWT Token - Library for managing tokens for user authentication.
+
 •	Cookie Parser - A tool for managing cookies on the server-side.
+
 •	Axios - A library for making HTTP requests
 
 ### Database
